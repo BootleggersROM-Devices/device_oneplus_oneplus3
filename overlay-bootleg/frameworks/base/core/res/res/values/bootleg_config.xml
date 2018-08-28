@@ -29,4 +29,10 @@
   <!-- Does the notification LED support multiple colors?
        Used to decide if the user can change the colors -->
   <bool name="config_multiColorNotificationLed">true</bool>
+
+  <!-- Whether the always on display mode is available. -->
+  <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+ 
+  <!-- Whether the display blanks itself when transition from a doze to a non-doze state -->
+  <bool name="config_displayBlanksAfterDoze">false</bool>
 </resources>
