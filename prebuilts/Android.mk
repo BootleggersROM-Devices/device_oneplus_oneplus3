@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := Lawnchair
+LOCAL_MODULE := LawnchairNew
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := Lawnchair/Lawnchair.apk
 LOCAL_CERTIFICATE := PRESIGNED

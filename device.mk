@@ -495,7 +495,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Lawnchair
 PRODUCT_PACKAGES += \
-    Lawnchair \
+    LawnchairNew \
     Lawnstep
 
 PRODUCT_COPY_FILES +=\
